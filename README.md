@@ -33,9 +33,6 @@ The dataset consists of T1-weighted contrast-enhanced brain MRI images split int
 ├── app/
 │   ├── config.py             # Application configuration (model path, image size, classes)
 │   └── main.py               # FastAPI application & prediction endpoint
-├── data/
-│   ├── Testing/              # Test images partitioned by class
-│   └── Training/             # Train images partitioned by class
 ├── model/
 │   └── model_T01.keras       # Saved trained MobileNetV2 Keras model
 ├── notebooks/
