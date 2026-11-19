@@ -178,9 +178,3 @@ print(response.json())
 
 - **`notebooks/tensorflow_T01.ipynb`**: Demonstrates data loading, preprocessing, MobileNetV2 model configuration, transfer learning, evaluation metrics, and saving the model to `.keras` format.
 - **`notebooks/pytorch_T01.ipynb`**: Demonstrates PyTorch data pipeline with augmentations, transfer learning using `VGG11_bn`, custom training loop, and model interpretability with **Grad-CAM**.
-
----
-
-## 🛡️ License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
